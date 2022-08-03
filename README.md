@@ -1,5 +1,6 @@
 - Hi, I’m @Avenred
 - I'm currently not doing anything interesting at the moment, but I'm using Github as a way of saving projects and sharing code with friends.
+- Fun fact, my profile picture can be found in the Stanley Parable: Ultra Deluxe
 
 [![Avenred's GitHub stats](https://github-readme-stats.vercel.app/api?username=avenred)](https://github.com/anuraghazra/github-readme-stats)
 <!---
